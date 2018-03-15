@@ -1,0 +1,1 @@
+chromosome	position	base.ref	depth.normal	depth.tumor	depth.ratio	Af	Bf	zygosity.normal	GC.percent	good.reads	AB.normal	AB.tumor	tumor.strand
